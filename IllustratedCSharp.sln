@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuttingItAllTogether", "Put
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodInvocations", "MethodInvocations\MethodInvocations.csproj", "{CA8D88F1-DB8D-4E36-95E6-8ECB0DE58FEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnValues", "ReturnValues\ReturnValues.csproj", "{C9CF3A6B-7750-4325-B410-6E48DC352F55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CA8D88F1-DB8D-4E36-95E6-8ECB0DE58FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA8D88F1-DB8D-4E36-95E6-8ECB0DE58FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA8D88F1-DB8D-4E36-95E6-8ECB0DE58FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CF3A6B-7750-4325-B410-6E48DC352F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CF3A6B-7750-4325-B410-6E48DC352F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CF3A6B-7750-4325-B410-6E48DC352F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CF3A6B-7750-4325-B410-6E48DC352F55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
