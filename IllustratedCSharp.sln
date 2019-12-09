@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodInvocations", "Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnValues", "ReturnValues\ReturnValues.csproj", "{C9CF3A6B-7750-4325-B410-6E48DC352F55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnVoid", "ReturnVoid\ReturnVoid.csproj", "{BB9538D4-11A6-44F1-9D3D-7171A24F6EB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C9CF3A6B-7750-4325-B410-6E48DC352F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9CF3A6B-7750-4325-B410-6E48DC352F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9CF3A6B-7750-4325-B410-6E48DC352F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9538D4-11A6-44F1-9D3D-7171A24F6EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9538D4-11A6-44F1-9D3D-7171A24F6EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9538D4-11A6-44F1-9D3D-7171A24F6EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9538D4-11A6-44F1-9D3D-7171A24F6EB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
