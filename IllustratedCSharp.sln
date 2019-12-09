@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnValues", "ReturnValue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnVoid", "ReturnVoid\ReturnVoid.csproj", "{BB9538D4-11A6-44F1-9D3D-7171A24F6EB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositionalParameters", "PositionalParameters\PositionalParameters.csproj", "{AC77C2DE-C642-4549-9EDA-A1260F3189A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BB9538D4-11A6-44F1-9D3D-7171A24F6EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB9538D4-11A6-44F1-9D3D-7171A24F6EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB9538D4-11A6-44F1-9D3D-7171A24F6EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC77C2DE-C642-4549-9EDA-A1260F3189A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC77C2DE-C642-4549-9EDA-A1260F3189A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC77C2DE-C642-4549-9EDA-A1260F3189A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC77C2DE-C642-4549-9EDA-A1260F3189A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
